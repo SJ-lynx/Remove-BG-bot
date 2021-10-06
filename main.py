@@ -21,17 +21,11 @@ HELP_TEXT = """
 - Just send me a photo
 - I will download it
 - I will send the photo without background
-
-Made by @FayasNoushad
 """
 ABOUT_TEXT = """
 - **Bot :** `Backround Remover Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Remove-BG-Bot/tree/main)
-- **Language :** [Python3](https://python.org)
-- **Library :** [Pyrogram](https://pyrogram.org)
-- **Server :** [Heroku](https://heroku.com)
+- **Creator :** [SJ](https://telegram.me/SJ_Lynx)
+- **Channel :** [Channel](https://telegram.me/SJa_Bots)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
