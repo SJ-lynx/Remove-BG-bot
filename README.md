@@ -6,9 +6,9 @@ A media background remover telegram bot with pyrogram framework.
 
 ```
 Made with Python3
-(C) @FayasNoushad
+(C) @SJ_Lynx
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
+License -> https://github.com/SJ-Lynx/Remove-BG-bot/blob/main/LICENSE
 ```
 
 ---
@@ -20,7 +20,7 @@ License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Remove-BG-Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/SJ-Lynx/Remove-BG-bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -32,8 +32,8 @@ License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
 <br/>
 
 ```sh
-git clone https://github.com/FayasNoushad/Remove-BG-Bot
-cd Remove-BG-Bot
+git clone https://github.com/SJ-Lynx/Remove-BG-bot
+cd Remove-BG-bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
