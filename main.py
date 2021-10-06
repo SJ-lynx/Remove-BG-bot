@@ -1,9 +1,3 @@
-# Made with python3
-# (C) @FayasNoushad
-# Copyright permission under MIT License
-# All rights reserved by FayasNoushad
-# License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
-
 import os
 import requests
 from pyrogram import Client, filters
@@ -22,8 +16,6 @@ FayasNoushad = Client(
 
 START_TEXT = """
 Hello {}, I am a media background remover bot. Send me a photo I will send the photo without background.
-
-Made by @FayasNoushad
 """
 HELP_TEXT = """
 - Just send me a photo
@@ -43,8 +35,8 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+        InlineKeyboardButton('Channel', url='https://t.me/SJa_Bots'),
+        InlineKeyboardButton('Feedback', url='https://t.me/SJ_Lynx')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -73,7 +65,7 @@ ERROR_BUTTONS = InlineKeyboardMarkup(
     )
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Join Updates Channel', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('Join Updates Channel', url='https://t.me/SJa_Bots')
         ]]
     )
 
